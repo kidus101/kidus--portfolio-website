@@ -12,7 +12,7 @@ const TAB_DATA = [
         <li>Node.js</li>
         <li>Express</li>
         <li>PostgreSQL</li>
-        <li>Sequelize</li>
+        <li>Next Js. </li>
         <li>JavaScript</li>
         <li>React</li>
       </ul>
@@ -23,8 +23,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+        <li>Software Engineering from ALX Holberton School</li>
+        <li>BA In Computer Science from Addis Ababa University(TOP 5 University In Africa)</li>
       </ul>
     ),
   },
@@ -33,8 +33,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Software Engineering from ALX Holberton School</li>
+        <li>OBSA Competitive Programming Hackathon</li>
       </ul>
     ),
   },
@@ -57,12 +57,10 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+          With over 3+ Years of hands-on experience as a Full Stack Developer,
+focusing on frontend development and a proven track record of
+solving real-life problems through innovative solutions, I deliver
+exceeding expectations.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
