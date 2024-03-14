@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "RideShare (Uber Pooing Platform)",
-    description: "Project 1 description",
+    description: "Ride-sharing is a convenient and efficient transportation service that connects passengers with drivers while sharing the ride and the cost.",
     image: "/images/projects/ride-share-1.jpg",
     tag: ["All", "FullStack"],
     gitUrl: "/",
