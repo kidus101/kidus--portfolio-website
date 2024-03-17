@@ -37,10 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-md mb-6 lg:text-lg">
-          With over 3+ Years of hands-on experience as a Full Stack Developer,
-focusing on frontend development and a proven track record of
-solving real-life problems through innovative solutions, I deliver
-exceeding expectations.
+         
           </p>
           <div>
             <Link
